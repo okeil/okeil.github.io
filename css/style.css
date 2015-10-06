@@ -1,3 +1,17 @@
 body {
   padding-top: 50px;
 }
+
+.em-text{
+  color:#FF0000 !important;
+}
+
+.jumbotron {
+  background: url(../img/background.jpg) no-repeat bottom;
+}
+
+.jumbotron .pic-home {
+  width: 45%;
+  margin-right: 0px;
+  margin-top: 3px;
+}
