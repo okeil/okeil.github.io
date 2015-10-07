@@ -57,6 +57,11 @@ section#mapa {
   margin-left: 18%;
 }
 
+section#sharing {
+  margin-top:15px;
+  margin-left: 10%;
+}
+
 footer {
   background: #222222;
   text-color
