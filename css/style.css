@@ -7,11 +7,17 @@ body {
 }
 
 .jumbotron {
-  background: url(../img/background.jpg) no-repeat bottom;
+  background: url(../img/background.jpg) no-repeat;
+  color: #fff;
+  height: 620px;
+  overflow: none;
 }
 
-.jumbotron .pic-home {
-  width: 45%;
-  margin-right: 0px;
-  margin-top: 3px;
+.jumbotron h1 {
+  margin-top: 60px;
+}
+
+footer {
+  background: #222222;
+  text-color
 }
