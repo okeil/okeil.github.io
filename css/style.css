@@ -6,12 +6,14 @@ body {
   color:#FF0000 !important;
 }
 
-.jumbotron {
-/*! #  background: url(../img/background.jpg) no-repeat; */
+ .jumbotron {
+background: url(../img/bg2.jpg) no-repeat;
+background-size: 100%;
+background-position: center bottom;
   color: #fff;
-  height: 690px;
+  height: 500px;
   overflow: none;
-}
+} 
 
 .jumbotron h1 {
   margin-top: 60px;
