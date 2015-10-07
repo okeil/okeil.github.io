@@ -41,8 +41,19 @@ section#mid-versiculo h4 {
   color: gray;
 }
 
+section#mid-address {
+  background-color: #FFEFFF;
+}
+
+section#mid-address h4 {
+  margin-top: 55px;
+  text-align: center;
+  text-shadow: 1px 1px black;
+  color: gray;
+}
+
 section#mapa {
-  margin-top:50px;
+  margin-top:0px;
   margin-left: 18%;
 }
 
