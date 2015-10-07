@@ -41,6 +41,11 @@ section#mid-versiculo h4 {
   color: gray;
 }
 
+section#mapa {
+  margin-top:50px;
+  margin-left: 18%;
+}
+
 footer {
   background: #222222;
   text-color
