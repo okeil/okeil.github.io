@@ -41,6 +41,14 @@ section#mid-versiculo h4 {
   color: gray;
 }
 
+section#about {
+  margin-top: 50px;
+}
+
+section#contact {
+  margin-top: 50px;
+}
+
 .imageBox {
   margin-top: 50px;
   position: relative;
