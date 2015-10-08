@@ -58,8 +58,12 @@ section#mapa {
 }
 
 section#sharing {
+  background-color: #f2f2f2;
   margin-top:15px;
-  margin-left: 10%;
+}
+
+.share-pic {
+  margin-top: 10px;
 }
 
 footer {
