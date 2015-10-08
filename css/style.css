@@ -41,6 +41,26 @@ section#mid-versiculo h4 {
   color: gray;
 }
 
+.imageBox {
+  margin-top: 80px;
+  position: relative;
+  float: left;
+}
+.imageBox img{
+  border-radius: 20px;
+  max-height: 100%;
+  max-width: 100%;
+}
+.imageBox .hoverImg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: none;
+}
+.imageBox:hover .hoverImg {
+  display: block;
+}
+
 section#mid-address {
   background-color: #FFEFFF;
 }
