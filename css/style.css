@@ -112,6 +112,9 @@ section#sharing {
 
 footer {
   background: #222222;
-  color: #FFF;
+  color: #FF9;
   text-align: center;
+}
+footer a {
+  color: #FFF;
 }
