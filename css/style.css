@@ -48,8 +48,21 @@ section#mid-address {
 section#mid-address h4 {
   margin-top: 55px;
   text-align: center;
-  text-shadow: 1px 1px black;
-  color: gray;
+  text-shadow: 1px 1px #e6e6e6;
+  color: #585858;
+}
+
+
+section#top-share {
+  background-color: #FFEFFF;
+}
+
+section#top-share h4 {
+  margin-top: 55px;
+  text-align: center;
+  text-shadow: 1px 1px #e6e6e6;
+  color: #585858;
+  font-size: 25px;
 }
 
 section#mapa {
@@ -58,12 +71,13 @@ section#mapa {
 }
 
 section#sharing {
-  background-color: #f2f2f2;
-  margin-top:15px;
+  background-color: #fafafa;
+  margin-top:0px;
 }
 
 .share-pic {
   margin-top: 10px;
+  margin-left: 10%;
 }
 
 footer {
