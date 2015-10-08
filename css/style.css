@@ -61,6 +61,11 @@ section#mid-versiculo h4 {
   display: block;
 }
 
+.imageBox h4 {
+margin-left: 50px;
+color: #F89F4a
+}
+
 section#mid-address {
   background-color: #FFEFFF;
 }
