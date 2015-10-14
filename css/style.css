@@ -67,7 +67,12 @@ section#contact {
   position: absolute;
   left: 0;
   top: 0;
+  max-width: 95%;
   display: none;
+}
+
+.imageBox .imageInn{
+  max-width: 95%;
 }
 .imageBox:hover .hoverImg {
   display: block;
